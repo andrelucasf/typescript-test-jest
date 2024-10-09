@@ -1,4 +1,4 @@
-# Typescript com Jest
+# Typescript e Jest
 
 Este repositório é destinado à configuração e demonstração de testes utilizando **TypeScript** e **Jest**. O objetivo principal é fornecer um ambiente de desenvolvimento simples e eficiente, onde desenvolvedores podem aprender e praticar a escrita de testes unitários em JavaScript moderno. 
 
